@@ -21,4 +21,4 @@ if (0) {
     console.log(false);
 } else { 
     console.log (true);
-}
+console.log("hello world");
