@@ -15,7 +15,9 @@ for (let i = 1; i <= 10; i++){
     console.log(i);
 }
 console.log("After the loop");
-function printRange (start, end) {
-    for(let i = start; i<=end; i++) 
-     console.log (i)
+function printRange (1, 10) {
+    for(let i = start; i<=end; i++) {
+      console log (i)
+    }
+
 }
